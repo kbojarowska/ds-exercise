@@ -14,10 +14,17 @@ button{
 
 button:hover{
   background-color: var(--classic-blue-s1);
+  border-color: var(--classic-blue-s1);
 }
 
 button:active{
   background-color: var(--classic-blue-s2);
+  border-color: var(--classic-blue-s2)
+}
+
+.button-focused{
+  box-shadow: inset 0px 0px 0px 1pt white;
+  border: 2pt solid var(--classic-blue);
 }
 
 .button-s-b{

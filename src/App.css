@@ -1,9 +1,23 @@
 :root{
   --classic-blue-t2: #76ceff;
   --classic-blue-t1: #00a3f6;
-  --classic-blue: #006885;
+  --classic-blue: #0068B5;
   --classic-blue-s1: #004a86;
   --classic-blue-s2: #00285A;
+}
+
+button{
+  background-color: var(--classic-blue);
+  border: none;
+  color: white;
+}
+
+button:hover{
+  background-color: var(--classic-blue-s1);
+}
+
+button:active{
+  background-color: var(--classic-blue-s2);
 }
 
 .button-s-b{

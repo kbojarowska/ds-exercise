@@ -27,6 +27,12 @@ button:active{
   border: 2pt solid var(--classic-blue);
 }
 
+button:disabled,
+button[disabled]{
+  background-color: #E9EAEB;
+  color: #B3B4BA;
+}
+
 .button-s-b{
   padding-left: 20pt;
   padding-right: 20pt;

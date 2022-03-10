@@ -1,0 +1,23 @@
+.button-s-b{
+  padding-left: 20pt;
+  padding-right: 20pt;
+  padding-top: 8pt;
+  padding-bottom: 8pt;
+  font-size: 16pt;
+}
+
+.button-s-n{
+  padding-left: 16pt;
+  padding-right: 16pt;
+  padding-top: 8pt;
+  padding-bottom: 8pt;
+  font-size: 14pt;
+}
+
+.button-s-s{
+  padding-left: 12pt;
+  padding-right: 12pt;
+  padding-top: 4pt;
+  padding-bottom: 4pt;
+  font-size: 12pt;
+}

@@ -21,9 +21,10 @@ button,
 button:hover,
 .button:hover{
   background-color: var(--classic-blue-s1);
+  cursor: pointer;
 }
 
-button:active
+button:active,
 .button:active{
   background-color: var(--classic-blue-s2);
 }
@@ -39,6 +40,7 @@ button[disabled],
 .button[disabled]{
   background-color: #E9EAEB;
   color: #B3B4BA;
+  cursor: not-allowed;
 }
 
 .button-size-big{

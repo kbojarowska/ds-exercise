@@ -30,7 +30,7 @@ button[disabled]{
   color: #B3B4BA;
 }
 
-.button-s-b{
+.button-size-big{
   padding-left: 20pt;
   padding-right: 20pt;
   padding-top: 8pt;
@@ -38,7 +38,7 @@ button[disabled]{
   font-size: 16pt;
 }
 
-.button-s-n{
+.button-size-normal{
   padding-left: 16pt;
   padding-right: 16pt;
   padding-top: 8pt;
@@ -46,7 +46,7 @@ button[disabled]{
   font-size: 14pt;
 }
 
-.button-s-s{
+.button-size-small{
   padding-left: 12pt;
   padding-right: 12pt;
   padding-top: 4pt;

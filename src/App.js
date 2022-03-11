@@ -1,11 +1,16 @@
-import './App.css';
+import './styles/Buttons.css';
 
 function App() {
   return (
     <div>
-      <button className='button-s-b button-focused'>Create new</button>
-      <button disabled className='button-s-n'>Create new</button>
-      <button className='button-s-s'>Create new</button>
+      <h2>Normal buttons:</h2>
+      <button className='button-size-big' style={{'margin-right': '10pt'}}>Create new</button>
+      <button className='button-size-normal' style={{'margin-right': '10pt'}}>Create new</button>
+      <button className='button-size-small'>Create new</button>
+      <h2>Disabled buttons:</h2>
+      <button disabled className='button-size-big' style={{'margin-right': '10pt'}}>Create new</button>
+      <button disabled className='button-size-normal' style={{'margin-right': '10pt'}}>Create new</button>
+      <button disabled className='button-size-small'>Create new</button>
     </div>
   );
 }

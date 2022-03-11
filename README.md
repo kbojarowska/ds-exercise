@@ -17,16 +17,16 @@ The default button element is 32 points (pt) high and has got default, hovered, 
 Button states:
 
 Default:
-![Button default state](https://ibb.co/hM55BCN)
+![Button default state](https://i.ibb.co/W399ksX/opera-r-AKlcl-Jt-On.png)
 
 Hovered:
-![Button hovered state](https://ibb.co/9G6Xs23)
+![Button hovered state](https://i.ibb.co/52mDBvx/opera-au-IXy-EB5y-H.png)
 
 Pressed and focused:
-![Button pressed and focused state](https://ibb.co/fYkMmq4)
+![Button pressed and focused state](https://i.ibb.co/mC9JQb6/opera-ud9-WSz9t-TG.png)
 
 Disabled:
-![Button disabled state](https://ibb.co/9rMvJ0q)
+![Button disabled state](https://i.ibb.co/719zHDG/opera-a-Da-Fta3-FDX.png)
 
 The `.button` class can be used on:
 

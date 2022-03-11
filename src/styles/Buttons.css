@@ -6,26 +6,37 @@
   --classic-blue-s2: #00285A;
 }
 
-button{
+button,
+.button{
   background-color: var(--classic-blue);
   border: none;
   color: white;
+  padding-left: 16pt;
+  padding-right: 16pt;
+  padding-top: 8pt;
+  padding-bottom: 8pt;
+  font-size: 14pt;
 }
 
-button:hover{
+button:hover,
+.button:hover{
   background-color: var(--classic-blue-s1);
 }
 
-button:active{
+button:active
+.button:active{
   background-color: var(--classic-blue-s2);
 }
 
-button:focus{
+button:focus,
+.button:focus{
   box-shadow: 0 0 0 1pt #ffffff, 0 0 0 3pt var(--classic-blue);
 }
 
 button:disabled,
-button[disabled]{
+button[disabled],
+.button:disabled,
+.button[disabled]{
   background-color: #E9EAEB;
   color: #B3B4BA;
 }
@@ -36,14 +47,6 @@ button[disabled]{
   padding-top: 8pt;
   padding-bottom: 8pt;
   font-size: 16pt;
-}
-
-.button-size-normal{
-  padding-left: 16pt;
-  padding-right: 16pt;
-  padding-top: 8pt;
-  padding-bottom: 8pt;
-  font-size: 14pt;
 }
 
 .button-size-small{

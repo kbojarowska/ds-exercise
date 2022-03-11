@@ -14,6 +14,20 @@ To see the result clone this repository and start app by `yarn start` command in
 
 The default button element is 32 points (pt) high and has got default, hovered, pressed and focused states.
 
+Button states:
+
+Default:
+![Button default state](https://ibb.co/hM55BCN)
+
+Hovered:
+![Button hovered state](https://ibb.co/9G6Xs23)
+
+Pressed and focused:
+![Button pressed and focused state](https://ibb.co/fYkMmq4)
+
+Disabled:
+![Button disabled state](https://ibb.co/9rMvJ0q)
+
 The `.button` class can be used on:
 
 ```html
@@ -28,10 +42,11 @@ To set button as disabled element write `disabled` next to the name of element:
 ```
 
 There are three sizes of buttons:
-* big - 40 points (pt) high
-* normal, which is default size of button - 32 points (pt) high
-* small - 24 points (pt) high
-
+Button size       | Hight         | Font size
+----------------- | ------------- | -----------
+Big               | 40 pt         | 16 pt
+Normal (default)  | 32 pt         | 14 pt
+Small             | 24 pt         | 12 pt
 
 ### Colors
 

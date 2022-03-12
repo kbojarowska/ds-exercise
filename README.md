@@ -15,16 +15,16 @@ To see the result clone this repository and start app by `yarn start` command in
 Button states:
 
 Default:\
-![Button default state](https://i.ibb.co/W399ksX/opera-r-AKlcl-Jt-On.png)
+![Button default state](https://i.ibb.co/n6yP8xj/opera-XCQLZU329-N.png)
 
 Hovered:\
-![Button hovered state](https://i.ibb.co/52mDBvx/opera-au-IXy-EB5y-H.png)
+![Button hovered state](https://i.ibb.co/WcHS9dt/opera-Nk4-Vx2d-Tpl.png)
 
 Pressed and focused:\
-![Button pressed and focused state](https://i.ibb.co/mC9JQb6/opera-ud9-WSz9t-TG.png)
+![Button pressed and focused state](https://i.ibb.co/pb1nMGb/opera-39lc7-Eclqw.png)
 
 Disabled:\
-![Button disabled state](https://i.ibb.co/719zHDG/opera-a-Da-Fta3-FDX.png)
+![Button disabled state](https://i.ibb.co/tqPcFhV/opera-i1-Acg-Z7m-CW.png)
 
 The `.button` class can be used on:
 

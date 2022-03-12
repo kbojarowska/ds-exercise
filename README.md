@@ -50,16 +50,11 @@ Small             | 24 pt         | 12 pt
 
 The CSS file contains of color pallete.
 
-* classic blue tint 2
-![classic blue tint 2 color](https://i.ibb.co/5cRDGYj/opera-Pb-JU0kh8lg.png)
-* classic blue tint 1
-![classic blue tint 1 color](https://i.ibb.co/sCjxm1S/opera-4n-XWavzyok.png)
-* classic blue
-![classic blue](https://i.ibb.co/VqhWBN8/opera-vj-Kl5-OHdkq.png)
-* classic blue shade 1
-![classic blue shade 1 color](https://i.ibb.co/k6GW22B/opera-WEn-EFLo-Fr-X.png)
-* classic blue shade 2
-![classic blue shade 2 color](https://i.ibb.co/23D1MH4/opera-rjqv0woa0l.png)
+* ![classic blue tint 2 color](https://i.ibb.co/5cRDGYj/opera-Pb-JU0kh8lg.png) classic blue tint 2
+* ![classic blue tint 1 color](https://i.ibb.co/sCjxm1S/opera-4n-XWavzyok.png) classic blue tint 1
+* ![classic blue](https://i.ibb.co/VqhWBN8/opera-vj-Kl5-OHdkq.png) classic blue
+* ![classic blue shade 1 color](https://i.ibb.co/k6GW22B/opera-WEn-EFLo-Fr-X.png) classic blue shade 1
+* ![classic blue shade 2 color](https://i.ibb.co/23D1MH4/opera-rjqv0woa0l.png) classic blue shade 2
 
 To use colors from color pallete, use variable name in the style of element.
 

@@ -12,8 +12,6 @@ To see the result clone this repository and start app by `yarn start` command in
 
 ### Buttons
 
-The default button element is 32 points (pt) high and has got default, hovered, pressed and focused states.
-
 Button states:
 
 Default:\
@@ -52,11 +50,16 @@ Small             | 24 pt         | 12 pt
 
 The CSS file contains of color pallete.
 
-* classic blue tint 1
 * classic blue tint 2
+![classic blue tint 2 color](https://i.ibb.co/bKNgtgx/opera-zwu-MUpx-WEF.png)
+* classic blue tint 1
+![classic blue tint 1 color](https://i.ibb.co/qgvrTY7/opera-Vah-H3fzjjv.png)
 * classic blue
+![classic blue](https://i.ibb.co/xgD5Z7Z/opera-g-Bdiy-LWtf8.png)
 * classic blue shade 1
+![classic blue shade 1 color](https://i.ibb.co/k5Ryd0C/opera-c-Qn1-V8-GXa-T.png)
 * classic blue shade 2
+![classic blue shade 2 color](https://i.ibb.co/xChgq4S/obraz-2022-03-12-234156.png)
 
 To use colors from color pallete, use variable name in the style of element.
 

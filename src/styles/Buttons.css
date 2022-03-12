@@ -58,3 +58,15 @@ button[disabled],
   padding-bottom: 4pt;
   font-size: 12pt;
 }
+
+.loading-frame{
+  background-color: white;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  text-align: center;
+  padding: 20% 0 20%;
+  font-size: 50pt;
+}
